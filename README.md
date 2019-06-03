@@ -9,4 +9,4 @@ Database used is MongoDB Atlas.
 
 The app is deployed in the cloud using heroku. Check the url below to try out the app.
 
-URL for the app : https://mighty-ridge-76055.herokuapp.com/work
+URL for the app : https://mighty-ridge-76055.herokuapp.com/
